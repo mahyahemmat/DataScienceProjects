@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/mahyahemmat/mahyahemmatProjects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a mechanical engineer with a PhD in computational biology. I am always curious in how data visualization and machine learning can give engineering -in a traditional sense- new insights. Whether it is clinical data or Iot, we are living in an era of technology and our lives depend on interpreting data to our benefit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project: Loan application Classification
+In this project, I used a historical dataset from previous loan applications, cleaned the data, and applied different classification algorithm on the data to find the best classifier algorithm that can accept/reject a loan application based on the probability that the loan is going to be paid off or not. The algorithms tried are:
+
+- k-Nearest Neighbour
+- Decision Tree
+- Support Vector Machine
+- Logistic Regression
 
 ### Markdown
 
